@@ -3,8 +3,11 @@
 
 - 🔭 I’m currently learning in WBS Coding School  
   
+- 🌱 I’m learning MongoDB and  at the moment  
 
-- 🌱 I’m learning React and API at the moment  
+- :bike: Hobbies: mountainbiking and beekeeping:honeybee:
+
+- 📪 Contact: https://www.linkedin.com/in/christian-scholtysik/
   
 
 <br/>  
@@ -51,7 +54,7 @@
 <a href="https://github.com/ChristianScholtysik" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/christian-scholtysik-135076231/" target="_blank">
+<a href="https://www.linkedin.com/in/christian-scholtysik/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/christianscholtysik" target="_blank">
