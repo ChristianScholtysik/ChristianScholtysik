@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning in WBS Coding School  
   
-- 🌱 I’m learning MongoDB and  at the moment  
+- 🌱 I’m learning MongoDB at the moment  
 
 - :bike: Hobbies: mountainbiking and beekeeping:honeybee:
 
