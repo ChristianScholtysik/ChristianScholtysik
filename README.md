@@ -48,6 +48,9 @@
 
 <br/>  
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianscholtysik&langs_count=8&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianscholtysik&theme=highcontrast)
 
 ## Connect with me  
 <div align="center">
@@ -61,7 +64,7 @@
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
 
 <br/>  
 
