@@ -1,7 +1,7 @@
 ### <div align="center">I'm Christian, a full-stack web developer 👨‍💻 starting in 2022 🚀</div>  
   
 
-- 🔭 I’m currently learning in WBS Coding School  
+- 🔭 I’m currently looking for new challenges.... :)
   
 - 🌱 I’m learning MongoDB at the moment  
 
