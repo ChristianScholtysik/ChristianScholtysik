@@ -1,4 +1,4 @@
-### <div align="center">I'm Christian, a full-stack web developer 👨‍💻 starting in 2022 🚀</div>  
+### <div align="center">I'm Christian, a  junior full-stack web & app developer 👨‍💻 started in 2022 🚀</div>  
   
 
 - 🔭 I’m currently looking for new challenges.... 😎 
