@@ -15,9 +15,13 @@
 ###
 <h2 align="left">Projects:</h2>
 <ul>
-<li>🏨 Health APP with Calorie Calculator: https://health-app-project.netlify.app/</li> 
+<li>💉 Health APP with Calorie Calculator: https://health-app-project.netlify.app/</li> 
 <li>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/</li> 
+<li>🦁 Zoo Administration: https://christianscholtysik.github.io/ZooAdministration/</li> 
+<li>🪑 Interior Design Page: https://christianscholtysik.github.io/New-Interior/</li> 
 </ul>
+
+
 ###
 <h2 align="left">I code with</h2>
 
