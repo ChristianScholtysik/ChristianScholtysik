@@ -14,9 +14,10 @@
 
 ###
 <h2 align="left">Projects:</h2>
-- 🏨 Health APP with Calorie Calculator: https://health-app-project.netlify.app/
-- 🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/
-
+<ul>
+<li>🏨 Health APP with Calorie Calculator: https://health-app-project.netlify.app/</li> 
+<li>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/</li> 
+</ul>
 ###
 <h2 align="left">I code with</h2>
 
