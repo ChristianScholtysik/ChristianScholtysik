@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋, I´m Christian</h1>
 
 ###
 
-<p align="left">My name is Christian and I'm a  Web & App Developer, from Bielefeld, Germany</p>
+<p align="left">A passionate and ambitious frontend developer from Bielefeld, Germany</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Ionic<br>🎲 Hobbies: 🚵🏻Mountainbiking, 🐝Beekeeping</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Typescript, CS50 <br>🎲 Hobbies: 🚵🏻Mountainbiking, 🐝Beekeeping</p>
 
 ###
 
