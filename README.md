@@ -19,6 +19,8 @@
 <li>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/</li> 
 <li>🦁 Zoo Administration: https://christianscholtysik.github.io/ZooAdministration/</li> 
 <li>🪑 Interior Design Page: https://christianscholtysik.github.io/New-Interior/</li> 
+<li>🛍️ The Design Shop:https://christianscholtysik.github.io/The-Design-Shop/</li> 
+  
 </ul>
 
 
