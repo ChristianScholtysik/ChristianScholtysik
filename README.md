@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">💉 Health APP with Calorie Calculator: https://health-app-project.netlify.app/<br>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/<br>🦁 Zoo Administration: https://christianscholtysik.github.io/ZooAdministration/<br>🪑 Interior Design Page: https://christianscholtysik.github.io/New-Interior/<br>🛍️ The Design Shop:https://christianscholtysik.github.io/The-Design-Shop/</p>
+<p align="left">💉 Health APP with Calorie Calculator: https://health-app-project.netlify.app/<br>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/<br>🦁 Zoo Administration: https://christianscholtysik.github.io/ZooAdministration/<br>🪑 Interior Design Page: https://christianscholtysik.github.io/New-Interior/<br>🛍️ The Design Shop:https://christianscholtysik.github.io/The-Design-Shop/<br>👕The Design Project: https://profile-readme-generator.com/</p>
 
 ###
 
@@ -99,14 +99,9 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianscholtysik&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div
+</div>
 
-
-
-
-
-
-
+###
 
 
 
