@@ -106,124 +106,14 @@
 
 
 
-<!-- [<h1 align="left">Hey 👋, I´m Christian</h1>
-
-###
-
-<p align="left">A passionate and ambitious frontend developer from Bielefeld, Germany</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Typescript, CS50 <br>🎲 Hobbies: 🚵🏻Mountainbiking, 🐝Beekeeping</p>
-
-###
-<h2 align="left">Projects:</h2>
-<ul>
-<li>💉 Health APP with Calorie Calculator: https://health-app-project.netlify.app/</li> 
-<li>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/</li> 
-<li>🦁 Zoo Administration: https://christianscholtysik.github.io/ZooAdministration/</li> 
-<li>🪑 Interior Design Page: https://christianscholtysik.github.io/New-Interior/</li> 
-<li>🛍️ The Design Shop:https://christianscholtysik.github.io/The-Design-Shop/</li> 
-  
-</ul>
-
-
-###
-<h2 align="left">I code with</h2>
-
-###
-
-<h3 align="left">FRONTEND</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
-<h3 align="left">BACKEND</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<h3 align="left">DATABASES</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/christian-scholtysik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/christianscholtysik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
-  </a>
-</div>
-
-###
-
-![](https://github-readme-stats.vercel.app/api?username=ChristianScholtysik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChristianScholtysik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianScholtysik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- ### <div align="center">I'm Christian</div>
 
