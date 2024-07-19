@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">💉 Health APP with Calorie Calculator: https://health-app-project.netlify.app/<br>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/<br>🦁 Zoo Administration: https://christianscholtysik.github.io/ZooAdministration/<br>🪑 Interior Design Page: https://christianscholtysik.github.io/New-Interior/<br>🛍️ The Design Shop:https://christianscholtysik.github.io/The-Design-Shop/<br>👕The Design Project: https://profile-readme-generator.com/<br>✂️Rock Paper Scissor: https://profile-readme-generator.com/</p>
+<p align="left">💉 Health APP with Calorie Calculator: https://health-app-project.netlify.app/<br>🦖 Tiny Dinosaur Mood: https://tiny-dino-mood.netlify.app/<br>🦁 Zoo Administration: https://christianscholtysik.github.io/ZooAdministration/<br>🪑 Interior Design Page: https://christianscholtysik.github.io/New-Interior/<br>🛍️ The Design Shop:https://christianscholtysik.github.io/The-Design-Shop/<br>👕The Design Project: https://github.com/ChristianScholtysik/The-Design-Shop/<br>✂️Rock Paper Scissor: https://github.com/ChristianScholtysik/Rock_Paper_Scissors/</p>
 
 ###
 
